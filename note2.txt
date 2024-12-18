@@ -1,0 +1,9 @@
+NOW I GOING TO SHARE SOME OF THE COMMANDS 
+
+Insert --->add --->commit --->push --->
+
+This is the order we eed to work on it 
+
+COMMANDS :
+cd file name 
+git init --> It is used in place where we need to have the git to be there so that there will be a connection between the local and the github repository 
